@@ -1,0 +1,40 @@
+.idea
+
+# Capybara/Rspec
+capybara_rspec/browser_options/.idea/
+capybara_rspec/browser_options/log/
+capybara_rspec/browser_options/mkmf.log
+capybara_rspec/browser_options/Gemfile.lock
+capybara_rspec/browser_options/trueautomation-capybara.iml
+capybara_rspec/browser_options/trueautomation.json
+
+# Java/Maven
+java_maven/browser_options/.idea/
+java_maven/browser_options/target/
+java_maven/log/
+java_maven/browser_options/trueautomation-testng.iml
+java_maven/browser_options/trueautomation.json
+
+# Java/Gradle
+java_gradle/browser_options/.idea/
+java_gradle/browser_options/.gradle/
+java_gradle/browser_options/build/
+java_gradle/log/
+java_gradle/browser_options/trueautomation-java-gradle.iml
+java_gradle/browser_options/trueautomation.json
+
+# JavaScript/WDIO
+javascript_wdio/.idea/
+javascript_wdio/node_modules/
+javascript_wdio/log/
+javascript_wdio/package-lock.json
+javascript_wdio/trueautomation.log
+javascript_wdio/trueautomation.json
+
+# JavaScript
+javascript/.idea/
+javascript/node_modules/
+javascript/log/
+javascript/package-lock.json
+javascript/trueautomation.log
+javascript/trueautomation.json
