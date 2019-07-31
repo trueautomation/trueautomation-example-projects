@@ -9,7 +9,7 @@ require 'true_automation/driver/capybara'
 
 RSpec.configure do |config|
   options = Selenium::WebDriver::Chrome::Options.new
-  options.add_argument('--start-maximized')
+  options.add_argument('--incognito')
 
   Capybara.register_driver :true_automation_driver do |app|
     TrueAutomation::Driver::Capybara.new(app, options: options)

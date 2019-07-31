@@ -11,7 +11,7 @@ capybara_rspec/browser_options/trueautomation.json
 # Java/Maven
 java_maven/browser_options/.idea/
 java_maven/browser_options/target/
-java_maven/log/
+java_maven/browser_options/log/
 java_maven/browser_options/trueautomation-testng.iml
 java_maven/browser_options/trueautomation.json
 
@@ -19,22 +19,22 @@ java_maven/browser_options/trueautomation.json
 java_gradle/browser_options/.idea/
 java_gradle/browser_options/.gradle/
 java_gradle/browser_options/build/
-java_gradle/log/
+java_gradle/browser_options/log/
 java_gradle/browser_options/trueautomation-java-gradle.iml
 java_gradle/browser_options/trueautomation.json
 
 # JavaScript/WDIO
-javascript_wdio/.idea/
-javascript_wdio/node_modules/
-javascript_wdio/log/
-javascript_wdio/package-lock.json
-javascript_wdio/trueautomation.log
-javascript_wdio/trueautomation.json
+javascript_wdio/capabilities/.idea/
+javascript_wdio/capabilities/node_modules/
+javascript_wdio/capabilities/log/
+javascript_wdio/capabilities/package-lock.json
+javascript_wdio/capabilities/trueautomation.log
+javascript_wdio/capabilities/trueautomation.json
 
 # JavaScript
-javascript/.idea/
-javascript/node_modules/
-javascript/log/
-javascript/package-lock.json
-javascript/trueautomation.log
-javascript/trueautomation.json
+javascript/browser_options/.idea/
+javascript/browser_options/node_modules/
+javascript/browser_options/log/
+javascript/browser_options/package-lock.json
+javascript/browser_options/trueautomation.log
+javascript/browser_options/trueautomation.json

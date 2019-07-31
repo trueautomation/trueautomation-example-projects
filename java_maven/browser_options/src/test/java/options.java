@@ -19,7 +19,7 @@ public class exampleTest {
     @BeforeTest
     public void beforeTest() {
         ChromeOptions options = new ChromeOptions();
-        options.addArguments("--start-maximized");
+        options.addArguments("--incognito");
 
         driver = new TrueAutomationDriver(options);
         driver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
