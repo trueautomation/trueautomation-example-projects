@@ -10,7 +10,7 @@ import java.util.concurrent.TimeUnit;
 
 import static io.trueautomation.client.TrueAutomationHelper.ta;
 
-public class exampleTest {
+public class options {
     private WebDriver driver;
     private By loginBtn = By.xpath(ta("loginBtn", "//a[contains(., 'Login')]"));
     private By signupBtn = By.cssSelector(ta("signupBtn", "div.sign-up-container > a"));
