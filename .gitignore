@@ -3,6 +3,7 @@
 # Capybara/Rspec
 capybara_rspec/*/.idea/
 capybara_rspec/*/log/
+capybara_rspec/*/logs/
 capybara_rspec/*/mkmf.log
 capybara_rspec/*/Gemfile.lock
 capybara_rspec/*/trueautomation-capybara.iml
@@ -12,6 +13,7 @@ capybara_rspec/*/trueautomation.json
 java_maven/*/.idea/
 java_maven/*/target/
 java_maven/*/log/
+java_maven/*/logs/
 java_maven/*/trueautomation-testng.iml
 java_maven/*/trueautomation.json
 
@@ -20,6 +22,7 @@ java_gradle/*/.idea/
 java_gradle/*/.gradle/
 java_gradle/*/build/
 java_gradle/*/log/
+java_gradle/*/logs/
 java_gradle/*/trueautomation-java-gradle.iml
 java_gradle/*/trueautomation.json
 
@@ -27,6 +30,7 @@ java_gradle/*/trueautomation.json
 javascript_wdio/*/.idea/
 javascript_wdio/*/node_modules/
 javascript_wdio/*/log/
+javascript_wdio/*/logs/
 javascript_wdio/*/package-lock.json
 javascript_wdio/*/trueautomation.log
 javascript_wdio/*/trueautomation.json
@@ -35,6 +39,7 @@ javascript_wdio/*/trueautomation.json
 javascript/*/.idea/
 javascript/*/node_modules/
 javascript/*/log/
+javascript/*/logs/
 javascript/*/package-lock.json
 javascript/*/trueautomation.log
 javascript/*/trueautomation.json
