@@ -4,11 +4,11 @@
   "description": "JavaScript + TrueAutomation example project",
   "main": "index.js",
   "scripts": {
-    "test": "node test/specs/test_scenario/*.js"
+    "test": "node ./test/specs/exampleTest.js"
   },
   "devDependencies": {
-    "trueautomation-selenium-webdriver": "~0.3",
+    "trueautomation-selenium-webdriver": "git://github.com/trueautomation/trueautomation-selenium-webdriver.git#master",
     "trueautomation-helper": "~0.3",
-    "selenium-webdriver": "4.0.0-alpha.4"
+    "selenium-webdriver": "4.0.0-alpha.5"
   }
 }
