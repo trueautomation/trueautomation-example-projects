@@ -9,6 +9,9 @@ capybara_rspec/*/Gemfile.lock
 capybara_rspec/*/trueautomation-capybara.iml
 capybara_rspec/*/trueautomation.json
 
+# Large files detected
+capybara_rspec/browser_options/browser
+
 # Java/Maven
 java_maven/*/.idea/
 java_maven/*/target/
