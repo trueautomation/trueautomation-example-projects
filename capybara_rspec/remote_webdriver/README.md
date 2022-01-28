@@ -1,4 +1,4 @@
-# trueautomation-capybara-example
+# Remote Webdriver | TA Capybara Rspec example project
 
 You must have installed TrueAutomation client, Ruby 2.6.3 or later and an updated browser system driver (chromedriver, geckodriver or safaridriver).
 
